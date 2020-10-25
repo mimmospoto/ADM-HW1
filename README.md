@@ -2,7 +2,7 @@
 ## File Descriptions
 1. `scripts.py`:
 
-    > It contains the solution of the exercises I completed. Each section represents a challenge and within each exercise.
+    > It contains the solution of the exercises I completed. Each section represents a challenge. Each challenge includes each exercise.
     
 2. `stamps.py`:
 
