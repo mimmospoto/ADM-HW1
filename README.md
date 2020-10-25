@@ -1,2 +1,10 @@
 # HW1-ADM-SpotoDomenico
-# Script Descriptions
+## File Descriptions
+1. `scripts.py`:
+
+    > It contains the solution of the exercises I completed. Each section represents a challenge and within each exercise.
+    
+2. `stamps.py`:
+
+    > It contains all the PDFs that assess the successful exercise I did.
+    
