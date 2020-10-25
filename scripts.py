@@ -493,6 +493,7 @@ if __name__ == '__main__':
 
 
 ''' Sets '''
+
 # Name_Exercise_1
 def average(array):
     # your code goes here
