@@ -392,7 +392,8 @@ if __name__ == '__main__':
     n = int(input())
     print_formatted(n)
 
-# Name_Exercise_11 (I look for the help of Hackerrack)
+# Name_Exercise_11 
+# (I look for the help of Hackerrack)
 def print_rangoli(size):
     # your code goes here
     for i in range (-(size-1),size):
@@ -603,5 +604,9 @@ for i in range(int(input())):
 
 print(sum(A))
 
-# Name_Exercise_11
-
+# Name_Exercise_11 
+# (I look for the help of Hackerrack because of the speed of algorithm)
+K = int(input())
+k = list(map(int, input().split()))
+new_set = set(k)
+print(((sum(new_set)*K)-(sum(k)))//(K-1))
