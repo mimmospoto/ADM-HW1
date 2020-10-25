@@ -1,1 +1,2 @@
-# HW1-ADM-Spoto
+# HW1-ADM-SpotoDomenico
+# Script Descriptions
