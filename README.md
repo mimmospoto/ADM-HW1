@@ -6,5 +6,5 @@
     
 2. `stamps.py`:
 
-    > It contains all the PDFs that assess the successful exercise I did.
+    > It contains all the PDFs that assess the successful exercises I did.
     
